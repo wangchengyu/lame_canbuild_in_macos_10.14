@@ -3,6 +3,8 @@
 I have delete one line in file "include/libmp3lame.sym", remove --> lame_init_old
 I did not know why, but it works. 
 
+I got this solution from here : https://www.shshaoxia.com/2020/12/17/libmp3lame-lame-init-old/
+
 ## How to build it?
 
 clone this repo, and ...
