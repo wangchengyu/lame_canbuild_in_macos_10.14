@@ -1,4 +1,20 @@
-                      LAME 3.xx
+## Why this repo?
+---
+I have delete one line in file "include/libmp3lame.sym", remove --> lame_init_old
+I did not know why, but it works. 
+
+## How to build it?
+---
+clone this repo, and ...
+```
+$ ./configure
+$ make & make install
+$ lame --help
+```
+done!
+
+
+                        LAME 3.xx
                LAME Ain't an MP3 Encoder
                   http://lame.sf.net
 	                  May 2011
