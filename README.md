@@ -1,10 +1,10 @@
 ## Why this repo?
----
+
 I have delete one line in file "include/libmp3lame.sym", remove --> lame_init_old
 I did not know why, but it works. 
 
 ## How to build it?
----
+
 clone this repo, and ...
 ```
 $ ./configure
